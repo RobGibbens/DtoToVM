@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_15" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DtoToVM/Pages/ConferencesPage.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DtoToVM/packages.config">
     <Files>
       <File FileName="DtoToVM/Services/TekConfClient.cs" Line="1" Column="1" />
       <File FileName="DtoToVM/Dtos/ConferenceDto.cs" Line="1" Column="1" />
@@ -14,6 +14,7 @@
       <File FileName="DtoToVM/AsyncLock.cs" Line="1" Column="1" />
       <File FileName="Android/Data/SQLiteClient.cs" Line="1" Column="1" />
       <File FileName="DtoToVM/Pages/ConferencesPage.cs" Line="50" Column="4" />
+      <File FileName="DtoToVM/packages.config" Line="4" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
