@@ -3,11 +3,11 @@
 	using Xamarin.Forms;
 	using DtoToVM.Pages;
 
-	public class App
+	public class App : Application
 	{
-		public static Page GetMainPage ()
-		{	
-			return new ConferencesPage ();
+		public App ()
+		{
+			MainPage = new ConferencesPage ();
 		}
 	}
 }
