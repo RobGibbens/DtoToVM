@@ -1,4 +1,4 @@
-﻿using Xamarin.Forms;
+using Xamarin.Forms;
 using DtoToVM.iOS.Data;
 
 [assembly: Dependency (typeof(SQLiteClient))]
